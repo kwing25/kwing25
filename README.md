@@ -18,8 +18,6 @@ ___I'd love to connect with you soon!👇___
 <a href="kendrawingpro@icloud.com"><img src="https://img.shields.io/badge/📧 Email-kendrawingpro@icloud.com-080705?labelColor=FF006F&style=flat-square&link=kendrawingpro@icloud.com" alt="📧 Email " /></a>
 <a href="kendrawing.myportfolio.com"><img src="https://img.shields.io/badge/💻 Website-kendrawing.com-080705?labelColor=FF006F&style=flat-square&link=kendrawing.myportfolio.com" alt="💻 Website" /></a> <img src="https://img.shields.io/badge/📞 Phone-720.335.4482-080705?labelColor=FF006F&style=flat-square" alt="📞 Phone" />
 ---
-[![forthebadge](https://forthebadge.com/images/badges/powered-by-black-magic.svg)](https://forthebadge.com)[![forthebadge](https://forthebadge.com/images/badges/powered-by-netflix.svg)](https://forthebadge.com)
-
 
 <!--
 **kwing25/kwing25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
