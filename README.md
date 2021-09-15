@@ -1,39 +1,7 @@
-### Hi there 👋
----
+## GitHub Profile Counter
 
-- 💬 I'm currently attending Full Stack Coding Web Development Bootcamp at the University of Denver 🎓. I have previous education with Computer Information Systems & Computer Networking. I'm very tech 📱 savvy and I have love 💕 for Front End Code. I'm a Colorado Native 🏞 and proud dog mom 🐕 . 
+- Counter image, initially based on pixel.svg from [Flavio Copes](https://flaviocopes.com/count-visits-static-site/)
 
-- 🌱 I’m currently learning ... CSS, Javascript, API's, Node, React, Sequilize, Express, mySQL, & More! I loved getting to learn more of these coding languages!
+- This is for use on [my GitHub profile](https://github.com/greenido), but you should be able to remix it and keep track of your profile's count as well.
 
-- 🤝 Loved to collaborate on ... Front End Code & Graphics 
-
-- ✨ Interests... Front End Code, UI, Making the Web 🖥 look beautiful 😍. Spending time with my pup 🐶, Finding a good show to binge 📺, Comic Book💚& Overall Geek 🤓. Social & Environmental causes 💪 🌎 . 
-
-- ⚡ Fun fact: ... I'm a really good crochet/knitter 🧶 
-
----
-
-<h4 align="center" style="text-decoration:underline;">I'd love to connect with you!👇 </h4>
-<p align="center">
-<a href="https://www.linkedin.com/in/kendrawing/"><img src="https://img.shields.io/badge/LinkedIn-ffffff?style=flat-square&logo=LinkedIn&logoColor=0177b5&link=https://www.linkedin.com/in/kendrawing/" alt="LinkedIn" /></a>
-<a href="https://join.slack.com/t/kendrawingweb-dfc7333/shared_invite/zt-u0vp8owy-odr4CflXwX80gsCmkVjL5w"><img src="https://cdn.brandfolder.io/5H442O3W/as/pljt3c-dcwb20-133c29/Slack_RGB_White.svg?position=181436" width="330px" height="40px">
-<a href="https://discord.gg/eK8HPFx39u"><img src="https://img.shields.io/badge/Discord-000000?style=for-the-badge&logo=Discord&link=https://discord.gg/eK8HPFx39u" alt="Discord" /></a>
-<br>
-<a href="kendrawingpro@icloud.com"><img src="https://img.shields.io/badge/📧 Email-kendrawingpro@icloud.com-080705?labelColor=FF006F&style=flat-square&link=kendrawingpro@icloud.com" alt="📧 Email " /></a>
-<a href="kendrawing.myportfolio.com"><img src="https://img.shields.io/badge/💻 Website-kendrawing.com-080705?labelColor=FF006F&style=flat-square&link=kendrawing.myportfolio.com" alt="💻 Website" /> 
-</p>
-
-<!--
-**kwing25/kwing25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- This will reset any time the server is inactive or shutdown. Ideally, you would hook this up to a database.
