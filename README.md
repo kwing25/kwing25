@@ -48,7 +48,7 @@ Trying to make the a better 🌎 place .
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kwing25&layout=compact)](https://github.com/kwing25)
 
 ---
-*Thanks to all the visitors looking at my Gihub!* 
+*Thanks to all the visitors looking at my GitHub!* 
 
 ![Visitor Count](https://profile-counter.glitch.me/kwing25/count.svg)
 	
