@@ -48,7 +48,14 @@ Trying to make the a better 🌎 place .
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kwing25&layout=compact)](https://github.com/kwing25)
 
 ---
+*Thanks to all the visitors looking at my Gihub!* 
+
 ![Visitor Count](https://profile-counter.glitch.me/kwing25/count.svg)
+	
 	
 ---
 ###### <img src="https://emojis.slackmojis.com/emojis/images/1622911394/43502/thank_you.gif?1622911394" height="23px" width="23px"> Thanks to  [GH Stats @anuraghazra](https://github.com/anuraghazra), [Visitor Counter @sagar-viradiya](https://github.com/sagar-viradiya), [Profile @StarSheriff2](https://github.com/StarSheriff2) for the Awesome GitHub Bages 👏
+
+---
+###### ***💬 Popular Repo's...*** 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kwing25&repo=5-0-Clock-Drink-Generator)](https://github.com/kwing25/5-0-Clock-Drink-Generator)[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kwing25&repo=portfolio)](https://github.com/kwing25/portfolio)[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kwing25&repo=Photo-Drop)](https://github.com/kwing25/Photo-Drop)[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kwing25&repo=Weather-Dashboard)](https://github.com/kwing25/Weather-Dashboard)
