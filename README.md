@@ -21,7 +21,7 @@ I'm really pasionate about developing and creating meaningful and creative apps.
 - ✨ Interests... Front End Code, UI, Making the Web look beautiful 🖥 
 <img src="https://emojis.slackmojis.com/emojis/images/1615414387/19292/paint.gif?1615414387" height="23px" width="26px">. 
 Making the Web Accessible for everyone and to work with a diverse and talented community of coders. 
-Trying to make the a better 🌎 place . 
+Trying to make the 🌎 better place . 
 
 - ⚡ Fun fact: Comic Book 🎥💚 & Overall Geek 🤓
 
