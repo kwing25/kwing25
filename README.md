@@ -23,8 +23,6 @@ I'm really pasionate about developing and creating meaningful and creative apps.
 Making the Web Accessible for everyone and to work with a diverse and talented community of coders. 
 Trying to make the 🌎 better place . 
 
-- ⚡ Fun fact: Comic Book 🎥💚 & Overall Geek 🤓
-
 
 ---
 <div align="center" style="background:#700647">
@@ -39,7 +37,10 @@ Trying to make the 🌎 better place .
 [![CodeSandBox](https://img.shields.io/badge/CodeSandBox-080705?style=flat-square&logo=CodeSandBox&link=https://codesandbox.io/u/kwing25)](https://codesandbox.io/u/kwing25)
 [![Twitter](https://img.shields.io/badge/Twitter-080705?style=flat-square&logo=Twitter&link=https://twitter.com/kennyk1995/)](https://twitter.com/kennyk1995/)
 [![Instagram](https://img.shields.io/badge/Instagram-080705?style=flat-square&logo=Instagram&link=https://instagram.com/95kendrawing/)](https://instagram.com/95kendrawing/)
+	<br>
+	<a href="https://www.buymeacoffee.com/kendrawing" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="31" width="124"></a>
 </div>
+	
 
 ---
 
