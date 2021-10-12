@@ -35,8 +35,6 @@ Trying to make the 🌎 better place .
 [![Codepen](https://img.shields.io/badge/Codepen-080705?style=flat-square&logo=CodePen&link=https://codepen.io/kwing25)](https://codepen.io/kwing25)
 [![JSFiddle](https://img.shields.io/badge/JSFiddle-080705?style=flat-square&logo=JSFiddle&link=https://jsfiddle.net/kwing25/)](https://jsfiddle.net/kwing25/)
 [![CodeSandBox](https://img.shields.io/badge/CodeSandBox-080705?style=flat-square&logo=CodeSandBox&link=https://codesandbox.io/u/kwing25)](https://codesandbox.io/u/kwing25)
-[![Twitter](https://img.shields.io/badge/Twitter-080705?style=flat-square&logo=Twitter&link=https://twitter.com/kennyk1995/)](https://twitter.com/kennyk1995/)
-[![Instagram](https://img.shields.io/badge/Instagram-080705?style=flat-square&logo=Instagram&link=https://instagram.com/95kendrawing/)](https://instagram.com/95kendrawing/)
 	<br>
 	<a href="https://www.buymeacoffee.com/kendrawing" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="31" width="124"></a>
 </div>
@@ -56,7 +54,3 @@ Trying to make the 🌎 better place .
 	
 ---
 ###### <img src="https://emojis.slackmojis.com/emojis/images/1622911394/43502/thank_you.gif?1622911394" height="23px" width="23px"> Thanks to  [GH Stats @anuraghazra](https://github.com/anuraghazra), [Visitor Counter @sagar-viradiya](https://github.com/sagar-viradiya), [Profile @StarSheriff2](https://github.com/StarSheriff2) for the Awesome GitHub Bages 👏
-
----
-###### ***💬 Popular Repo's...*** 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kwing25&repo=5-0-Clock-Drink-Generator)](https://github.com/kwing25/5-0-Clock-Drink-Generator)[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kwing25&repo=portfolio)](https://github.com/kwing25/portfolio)[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kwing25&repo=Photo-Drop)](https://github.com/kwing25/Photo-Drop)[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kwing25&repo=Weather-Dashboard)](https://github.com/kwing25/Weather-Dashboard)
