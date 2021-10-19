@@ -1,56 +1,81 @@
 <a href="https://kendrawing-portfolio.netlify.app/"><img src="https://live.staticflickr.com/65535/51478190553_2e09785450_k.jpg"></a>
 
 <div align="center"> 
-<h1 style="color:#ff006e">Hi there 👋</h1> 
+<h1 style="color:#ff006e">Hello 👋</h1> 
 <a href="https://kendrawing-portfolio.netlify.app/"><h6 style="color:#700647">My Portfolio Site 👩‍💻</h6></a>
 
-Recent Graduate of University of Denver Coding Bootcamp. I've loved learning and growing my skills in Full-Stack Web Development. I have a huge interest in React and React Native. I also love all things front-end <img src="https://emojis.slackmojis.com/emojis/images/1618286254/30077/color_wheel.png?1618286254" height="15px" width="14px"> <img src="https://emojis.slackmojis.com/emojis/images/1614999304/18103/computer.gif?1614999304" height="15px" width="14px">
+Grad of University of Denver Full Stack Coding Bootcamp. I love learning and growing my skills in Full-Stack Web Development. I have a huge interest in React and React Native. I 💙 all things front-end  and creating beautiful & meaningful apps <img src="https://emojis.slackmojis.com/emojis/images/1614999304/18103/computer.gif?1614999304" height="15px" width="14px">.
 
-I'm really pasionate about developing and creating meaningful and creative apps. I love to see all the work of gifted coders from all around the planet sharing their knowledge and amazing work 💙 <img src="https://emojis.slackmojis.com/emojis/images/1611858576/12261/earth-globe.gif?1611858576" height="18px" width="18px">
 
 <h6 style="font-style:italic;"><img src="https://emojis.slackmojis.com/emojis/images/1588177020/8809/wave_hello.gif?1588177020" height="18px" width="17px"> Open to new opportunities including: Freelance, Contract, & Full-Time work! Checkout my contact info & links👇</h6>
 </div>
 
 ---
 
-- 🌱 I’m Experienced in ... HTMl, CSS, JavaScript, React, React Native, API's, Node, Express, mySQL, & More! 
-*I love learning new coding languages!* <img src="https://emojis.slackmojis.com/emojis/images/1483822559/1584/loveit.gif?1483822559" height="15px" width="14px">
+- 🔭 I’m currently working on Personal Portfolio & API of Female Tech Pioneers 👩🏻‍💻. Looking for collaborators if interested- https://github.com/kwing25/Women-Who-ve-Changed-Tech
 
-- 🤝 Would loved to collaborate on ... Front End Code & Graphics & other Projects with others <img src="https://emojis.slackmojis.com/emojis/images/1627974769/48327/hello_sign.gif?1627974769" height="23px" width="26px"> 
+- 🌱 I’m currently learning React Native, Typescript, Angular, API’s, iOS App Development with Swift 🤔 *I love learning new coding languages!* 
 
-- ✨ Interests... Front End Code, UI, Making the Web look beautiful 🖥 
+- 🤝 Would loved to collaborate on ... Front End Code & Graphics & other Projects with others 
+
+- 💬 Talk to me about React, Sass, API's, Freelancing Opportunities, Full-Time Work, Open Source 
+
+- ✨ Interests... Front End Code, UI, Making the Web look beautiful
 <img src="https://emojis.slackmojis.com/emojis/images/1615414387/19292/paint.gif?1615414387" height="23px" width="26px">. 
 Making the Web Accessible for everyone and to work with a diverse and talented community of coders. 
-Trying to make the 🌎 better place . 
-
+Trying to make the 🌎 better place. 
 
 ---
+<h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 22px> </h2>
+
+ <img width ='22px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/reactjs.svg'> <img width ='22px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/javascript.svg'> <img width ='22px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/sass.svg'><img width ='22px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/css.svg'> 
+ <img width ='22px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/html.svg'>
+<img width ='22px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/bootstrap.svg'> 
+<img width ='22px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/mysql.svg'> 
+ <img width ='22px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/nodejs.svg'> 
+ <img width ='22px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/mongodb.svg'> 
+  <img width ='22px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/git.svg'> 
+ <img width ='22px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/graphql.svg'> 
+  <img width ='22px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/postman.svg'>
+ <img width ='22px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg'> 
+<sub><i>HTML, CSS, JavaScript, React, React Native, API's, Node, Express, mySQL, & More! </i></sub>
+
+---
+
+
+<div align="center">
+
+
+![Kwing25's GitHub stats](https://github-readme-stats.vercel.app/api?username=kwing25&bg_color=10,ff006e,700647,080705&title_color=fff&text_color=fff)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kwing25&layout=compact&langs_count=8)](https://github.com/kwing25)
+</div>
+	
 <div align="center" style="background:#700647">
-<h4 align="center" style="color:#fef8fc;">I'd love to connect with you! 💬 🤝 </h4>
-<a href="kendrawingpro@icloud.com"><img src="https://img.shields.io/badge/📧 Email-kendrawingpro@icloud.com-080705?labelColor=FF006F&style=flat-square&link=kendrawingpro@icloud.com" alt="📧 Email " /></a>
-<a href="kendrawing.myportfolio.com"><img src="https://img.shields.io/badge/💻 Website-kendrawing.com-080705?labelColor=FF006F&style=flat-square&link=kendrawing.myportfolio.com" alt="💻 Website" /> 
+<h3 align="center" style="color:#fef8fc;"><i>I'd love to connect with you! 💬 🤝</i> </h3>
+<a href="mailto:kendrawingpro@icloud.com"><img src="https://img.shields.io/badge/📧-kendrawingpro@icloud.com-080705?labelColor=FF006F&style=flat-square&link=kendrawingpro@icloud.com" alt="Email" /></a>
+<a href="https://kendrawing-portfolio.netlify.app/""><img src="https://img.shields.io/badge/💻-kendrawing.com-080705?labelColor=FF006F&style=flat-square&link=https://kendrawing-portfolio.netlify.app/" alt="Portfolio" /> 
 
 [![Linkedin](https://img.shields.io/badge/Linkedin-080705?style=flat-square&logo=Linkedin&link=https://www.linkedin.com/in/kendrawing/)](https://www.linkedin.com/in/kendrawing/)
 [![GitHub](https://img.shields.io/badge/GitHub-080705?style=flat-square&logo=GitHub&link=https://github.com/kwing25/)](https://github.com/kwing25/)
-[![Codepen](https://img.shields.io/badge/Codepen-080705?style=flat-square&logo=CodePen&link=https://codepen.io/kwing25)](https://codepen.io/kwing25)
-[![JSFiddle](https://img.shields.io/badge/JSFiddle-080705?style=flat-square&logo=JSFiddle&link=https://jsfiddle.net/kwing25/)](https://jsfiddle.net/kwing25/)
-[![CodeSandBox](https://img.shields.io/badge/CodeSandBox-080705?style=flat-square&logo=CodeSandBox&link=https://codesandbox.io/u/kwing25)](https://codesandbox.io/u/kwing25)
-	<br>
-	<a href="https://www.buymeacoffee.com/kendrawing" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="31" width="124"></a>
+
+<tr>
+<td>
+<a href = 'https://codepen.io/kwing25'> <img width = '20px' align= 'center' src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/7cbd7f9951be31f9d06b6ac97739a700320b9130/svgs/brands/codepen.svg"/></a>
+<a href = 'https://jsfiddle.net/user/kwing25/fiddles/'> <img width = '22px' align= 'center' src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/7cbd7f9951be31f9d06b6ac97739a700320b9130/svgs/brands/jsfiddle.svg"/></a>
+<a href = 'https://codesandbox.com/kwing25'> <img width = '20px' align= 'center' src="https://raw.githubusercontent.com/simple-icons/simple-icons/ddc3b0b4aeee6cbdde32867473d75d03dd289d21/icons/codesandbox.svg"></a> 
+<a href = 'https://medium.com/@kendrawing'> <img width = '25px' height="22px" align= 'center' src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/7cbd7f9951be31f9d06b6ac97739a700320b9130/svgs/brands/medium.svg"/></a>
+<a href = 'https://dev.to/kwing25'> <img width = '25px' height="23px" align= 'center' src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/7cbd7f9951be31f9d06b6ac97739a700320b9130/svgs/brands/dev.svg"/></a>
+<a href = 'https://www.hackerrank.com/kendracwing'> <img width = '20px' align= 'center' src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/7cbd7f9951be31f9d06b6ac97739a700320b9130/svgs/brands/hackerrank.svg"/></a><br>
+</td>
+</tr>
+
+<a href="https://www.buymeacoffee.com/kendrawing" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="31" width="124"></a>
 </div>
-	
-
----
-
-![Kwing25's GitHub stats](https://github-readme-stats.vercel.app/api?username=kwing25&show_icons=true&theme=radical)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kwing25&layout=compact)](https://github.com/kwing25)
 
 ---
 *Thanks to all the visitors looking at my GitHub!* 
 
 ![Visitor Count](https://profile-counter.glitch.me/kwing25/count.svg)
 	
-	
 ---
-###### <img src="https://emojis.slackmojis.com/emojis/images/1622911394/43502/thank_you.gif?1622911394" height="23px" width="23px"> Thanks to  [GH Stats @anuraghazra](https://github.com/anuraghazra), [Visitor Counter @sagar-viradiya](https://github.com/sagar-viradiya), [Profile @StarSheriff2](https://github.com/StarSheriff2) for the Awesome GitHub Bages 👏
+###### <img src="https://emojis.slackmojis.com/emojis/images/1622911394/43502/thank_you.gif?1622911394" height="23px" width="23px"> Thanks to [ProfileReadmeGenerator @rahulbannerjee26](https://github.com/rahulbanerjee26/githubProfileReadmeGenerator), [GH Stats @anuraghazra](https://github.com/anuraghazra), [Visitor Counter @sagar-viradiya](https://github.com/sagar-viradiya), [Profile @StarSheriff2](https://github.com/StarSheriff2)for the Awesome GitHub Bages 👏
