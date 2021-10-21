@@ -7,7 +7,7 @@
 Grad of University of Denver Full Stack Coding Bootcamp. I love learning and growing my skills in Full-Stack Web Development. I have a huge interest in React and React Native. I 💙 all things front-end  and creating beautiful & meaningful apps <img src="https://emojis.slackmojis.com/emojis/images/1614999304/18103/computer.gif?1614999304" height="15px" width="14px">.
 
 
-<h6 style="font-style:italic;"><img src="https://emojis.slackmojis.com/emojis/images/1588177020/8809/wave_hello.gif?1588177020" height="18px" width="17px"> Open to new opportunities including: Freelance, Contract, & Full-Time work! Checkout my contact info & links👇</h6>
+<h6 style="font-style:italic;"> Open to new opportunities including: Freelance, Contract, & Full-Time work! Checkout my contact info & links👇</h6>
 </div>
 
 ---
