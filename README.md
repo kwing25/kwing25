@@ -48,7 +48,8 @@ Trying to make the 🌎 better place.
 
 ![Kwing25's GitHub stats](https://github-readme-stats.vercel.app/api?username=kwing25&bg_color=10,ff006e,700647,080705&title_color=fff&text_color=fff)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kwing25&layout=compact&langs_count=8)](https://github.com/kwing25)
-	<img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=@kwing25&compact=True"/>
+[![kwing25's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=kwing25&layout=compact)](https://github.com/kwing25)
+<!-- 	<img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=@kwing25&compact=True"/> -->
 </div>
 	
 <div align="center" style="background:#700647">
