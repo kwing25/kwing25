@@ -1,4 +1,6 @@
-<a href="https://kendrawing-portfolio.netlify.app/"><img src="https://live.staticflickr.com/65535/51478190553_2e09785450_k.jpg"></a>
+<div align="center"> 
+<a href="https://kendrawing-portfolio.netlify.app/"><img src="https://live.staticflickr.com/65535/51756634819_81e4fffcf5_c.jpg" width="670px" height="180px"></a>
+</div>
 
 <div align="center"> 
 <h1 style="color:#ff006e">Hello 👋</h1> 
