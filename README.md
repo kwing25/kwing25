@@ -28,6 +28,8 @@ Making the Web Accessible for everyone and to work with a diverse and talented c
 Trying to make the 🌎 better place. 
 
 ---
+[![wakatime](https://wakatime.com/badge/user/2757f0f2-c344-4d0a-bfc2-16ce09985dac.svg)](https://wakatime.com/@2757f0f2-c344-4d0a-bfc2-16ce09985dac)
+
 <h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 22px> </h2>
 
  <img width ='22px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/reactjs.svg'> <img width ='22px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/javascript.svg'> <img width ='22px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/sass.svg'><img width ='22px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/css.svg'> 
