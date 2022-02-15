@@ -63,6 +63,7 @@ Trying to make the 🌎 better place.
 
 [![Linkedin](https://img.shields.io/badge/Linkedin-080705?style=flat-square&logo=Linkedin&link=https://www.linkedin.com/in/kendrawing/)](https://www.linkedin.com/in/kendrawing/)
 [![GitHub](https://img.shields.io/badge/GitHub-080705?style=flat-square&logo=GitHub&link=https://github.com/kwing25/)](https://github.com/kwing25/)
+[![Schedule a Time to Meet ☞](https://img.shields.io/badge/Schedule_a_Time_to_Meet_☞-gray?style=for-the-badge&link=https://calendly.com/kendrawing/schedule)](https://calendly.com/kendrawing/schedule)
 
 <tr>
 <td>
@@ -77,6 +78,7 @@ Trying to make the 🌎 better place.
 
 <a href="https://www.buymeacoffee.com/kendrawing" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="31" width="124"></a>
 </div>
+
 
 ---
 *Thanks to all the visitors looking at my GitHub!* 
