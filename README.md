@@ -1,5 +1,5 @@
 <div align="center"> 
-<a href="https://kendrawing-portfolio.netlify.app/"><img src="https://live.staticflickr.com/65535/51756634819_81e4fffcf5_c.jpg" width="670px" height="180px"></a>
+<a href="https://kendrawing-portfolio.netlify.app/"><img src="https://live.staticflickr.com/65535/51955658609_c351f51c6e_h.jpg" width="670px" height="180px"></a>
 </div>
 
 <div align="center"> 
