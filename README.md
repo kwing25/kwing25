@@ -4,32 +4,17 @@
 
 <div align="center"> 
 <h1 style="color:#ff006e">Hello 👋</h1> 
-<a href="https://kendrawing-portfolio.netlify.app/"><h6 style="color:#700647">My Portfolio Site 👩‍💻</h6></a>
+<a href="https://kendrawing-portfolio.netlify.app/"><i>My Portfolio Site 👩‍💻</i></a>
 
-Grad of University of Denver Full Stack Coding Bootcamp. I love learning and growing my skills in Full-Stack Web Development. I have a huge interest in React and React Native. I 💙 all things front-end  and creating beautiful & meaningful apps <img src="https://emojis.slackmojis.com/emojis/images/1614999304/18103/computer.gif?1614999304" height="15px" width="14px">.
+<!-- Grad of University of Denver Full Stack Coding Bootcamp. I love learning and growing my skills in Full-Stack Web Development. I have a huge interest in React and React Native. I 💙 all things front-end  and creating beautiful & meaningful apps <img src="https://emojis.slackmojis.com/emojis/images/1614999304/18103/computer.gif?1614999304" height="15px" width="14px">.
+ -->
+<br/>
+	
+![Metrics](https://metrics.lecoq.io/kwing25?template=classic&achievements=1&introduction=1&achievements.threshold=C&achievements.secrets=true&achievements.display=compact&achievements.limit=0&introduction.title=true&config.timezone=America%2FDenver)
 
-
-<h6 style="font-style:italic;"> Open to new opportunities including: Freelance, Contract, & Full-Time work! Checkout my contact info & links👇</h6>
-</div>
-
----
-
-- 🔭 I’m currently working on Personal Portfolio & API of Female Tech Pioneers 👩🏻‍💻. Looking for collaborators if interested- https://github.com/kwing25/Women-Who-ve-Changed-Tech
-
-- 🌱 I’m currently learning React Native, Typescript, Angular, API’s, iOS App Development with Swift 🤔 *I love learning new coding languages!* 
-
-- 🤝 Would loved to collaborate on ... Front End Code & Graphics & other Projects with others 
-
-- 💬 Talk to me about React, Sass, API's, Freelancing Opportunities, Full-Time Work, Open Source 
-
-- ✨ Interests... Front End Code, UI, Making the Web look beautiful
-<img src="https://emojis.slackmojis.com/emojis/images/1615414387/19292/paint.gif?1615414387" height="23px" width="26px">. 
-Making the Web Accessible for everyone and to work with a diverse and talented community of coders. 
-Trying to make the 🌎 better place. 
-
----
 [![wakatime](https://wakatime.com/badge/user/2757f0f2-c344-4d0a-bfc2-16ce09985dac.svg)](https://wakatime.com/@2757f0f2-c344-4d0a-bfc2-16ce09985dac)
 
+---	
 <h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 22px> </h2>
 
  <img width ='22px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/reactjs.svg'> <img width ='22px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/javascript.svg'> <img width ='22px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/sass.svg'><img width ='22px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/css.svg'> 
@@ -49,9 +34,6 @@ Trying to make the 🌎 better place.
 
 <div align="center">
 
-
-![Kwing25's GitHub stats](https://github-readme-stats.vercel.app/api?username=kwing25&bg_color=10,ff006e,700647,080705&title_color=fff&text_color=fff)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kwing25&layout=compact&langs_count=8)](https://github.com/kwing25)
 [![kwing25's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=kwing25&layout=compact)](https://github.com/kwing25)
 <!-- 	<img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=@kwing25&compact=True"/> -->
 </div>
@@ -86,4 +68,4 @@ Trying to make the 🌎 better place.
 ![Visitor Count](https://profile-counter.glitch.me/kwing25/count.svg)
 	
 ---
-###### <img src="https://emojis.slackmojis.com/emojis/images/1622911394/43502/thank_you.gif?1622911394" height="23px" width="23px"> Thanks to [ProfileReadmeGenerator @rahulbannerjee26](https://github.com/rahulbanerjee26/githubProfileReadmeGenerator), [GH Stats @anuraghazra](https://github.com/anuraghazra), [Visitor Counter @sagar-viradiya](https://github.com/sagar-viradiya), [Profile @StarSheriff2](https://github.com/StarSheriff2)for the Awesome GitHub Bages 👏
+###### <img src="https://emojis.slackmojis.com/emojis/images/1622911394/43502/thank_you.gif?1622911394" height="23px" width="23px"> Thanks to [ProfileReadmeGenerator @rahulbannerjee26](https://github.com/rahulbanerjee26/githubProfileReadmeGenerator), [GH Stats @anuraghazra](https://github.com/anuraghazra), [Visitor Counter @sagar-viradiya](https://github.com/sagar-viradiya), [Profile @StarSheriff2](https://github.com/StarSheriff2) for the Awesome GitHub Bages, and [metrics.lecoq.io](https://metrics.lecoq.io/) for the github user metrics badge.  👏
