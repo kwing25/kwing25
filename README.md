@@ -23,6 +23,9 @@
 
 [![kwing25's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=kwing25&layout=compact)](https://github.com/kwing25)
 
+[![@kwing25's Holopin board](https://holopin.io/api/user/board?user=kwing25)](https://holopin.io/@kwing25)
+
+
 </div>
 	
 
