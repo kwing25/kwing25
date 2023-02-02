@@ -1,5 +1,5 @@
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=40&duration=4000&color=FF006E&multiline=true&width=500&height=367&lines=Hello+%F0%9F%91%8B;My+name+is+Kendra;I'm+a+Web+Developer+;%26+Developer+Advocate+%F0%9F%91%A9%E2%80%8D%F0%9F%92%BB)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=40&duration=3000&color=FF006E&multiline=true&width=500&height=357&lines=Hello+%F0%9F%91%8B;My+name+is+Kendra;I'm+a+Web+Developer+;%26+Developer+Advocate+%F0%9F%91%A9%E2%80%8D%F0%9F%92%BB)](https://git.io/typing-svg)
 ---
 ### **I'm a Coder, Dev, & passionate Tech Advocate 👩🏻‍💻. Lover of open source and finding purposeful causes to contribute to using my skills ✨**  
   
@@ -82,7 +82,7 @@
 
 <br/>  
 
-## Connect with me  
+<!-- ## Connect with me  
 <div align="center">
 <a href="https://github.com/kwing25" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
@@ -98,18 +98,18 @@
 </a>  
 </div>  
   
-<br/>  
+<br/>   -->
 
 <table><tr>
-<td valign="top" width="50%">
+<!--<td valign="top" width="50%">
 
-## Github Stats  
+ ## Github Stats  
 <div align="center">  
 <img src="https://github-readme-stats.vercel.app/api?username=kwing25&show_icons=true&theme=dracula" align="left" />  
 </td>
-</div>
+</div> -->
 
-<td valign="top" width="50%">
+<td valign="top" width="100%">
 
 ## Wakatime Stats
 <div align="center">  
@@ -122,11 +122,11 @@
 </td></tr></table>  
 
 
-### What I'm listening to 🎧  
-<!-- <div align="center"><img src="https://rishavanand.github.io/static/images/spotify-readme-example.svg" /></div> -->
+<!-- ### What I'm listening to 🎧  
+<div align="center"><img src="https://rishavanand.github.io/static/images/spotify-readme-example.svg" /></div> -->
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31oakw5h76eagsy3ptr7huy6l7ri&cover_image=true&theme=default&bar_color=53b14f&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
-
+<!-- [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31oakw5h76eagsy3ptr7huy6l7ri&cover_image=true&theme=default&bar_color=53b14f&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
+ -->
 
 
 ----
@@ -134,9 +134,8 @@
 [![@kwing25's Holopin board](https://holopin.io/api/user/board?user=kwing25)](https://holopin.io/@kwing25)
 
 
-*Thanks to all the visitors looking at my GitHub!* 
+<!-- *Thanks to all the visitors looking at my GitHub!*  -->
 
-![Visitor Count](https://profile-counter.glitch.me/kwing25/count.svg)
-	
+<!-- ![Visitor Count](https://profile-counter.glitch.me/kwing25/count.svg)-->
 ---
 ###### <img src="https://emojis.slackmojis.com/emojis/images/1622911394/43502/thank_you.gif?1622911394" height="23px" width="23px"> Thanks to [ProfileReadmeGenerator @rahulbannerjee26](https://github.com/rahulbanerjee26/githubProfileReadmeGenerator), [GH Stats @anuraghazra](https://github.com/anuraghazra), [Visitor Counter @sagar-viradiya](https://github.com/sagar-viradiya), [Profile @StarSheriff2](https://github.com/StarSheriff2) for the Awesome GitHub Bages, [Readme Typing SVG](https://readme-typing-svg.herokuapp.com/), [Github Profilinator](https://profilinator.rishav.dev/) for the amazing Profile Generator & Spotify Widget, and [metrics.lecoq.io](https://metrics.lecoq.io/) for the github user metrics badge.  👏
