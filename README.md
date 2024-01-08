@@ -6,8 +6,8 @@
 
 <div align="left">
 
-[![Ceasefire now](https://img.shields.io/badge/%F0%9F%87%B5%F0%9F%87%B8_Ceasefire_Now-techforpalestine.org-000000?labelColor=gray&color=D83838)](https://techforpalestine.org/learn-more)
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)](https://github.com/ellerbrock/open-source-badge/)
+[![Ceasefire now](https://img.shields.io/badge/%F0%9F%87%B5%F0%9F%87%B8_Ceasefire_Now-techforpalestine.org-000000?labelColor=gray&color=D83838)](https://techforpalestine.org/learn-more)
 
 </div>
 
