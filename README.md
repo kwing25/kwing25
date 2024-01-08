@@ -113,9 +113,6 @@ I love open-source and actively seek meaningful causes to contribute to with my 
 
 ![Jokes Card](https://readme-jokes.vercel.app/api)
 
-
-
-
 <!-- 
 [![Visits Badge](https://badges.pufler.dev/visits/kwing25/kwing25)](https://badges.pufler.dev)
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&duration=5030&pause=1010&color=00AB59FA&random=false&width=435&lines=Ceasefire+Now;Support+techforpalestine.org)](https://git.io/typing-svg)-->
