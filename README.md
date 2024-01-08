@@ -7,6 +7,7 @@
 <div align="left">
 
 [![Ceasefire now](https://img.shields.io/badge/%F0%9F%87%B5%F0%9F%87%B8_Ceasefire_Now-techforpalestine.org-000000?labelColor=gray&color=D83838)](https://techforpalestine.org/learn-more)
+[![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)](https://github.com/ellerbrock/open-source-badge/)
 
 </div>
 
@@ -87,6 +88,16 @@ I love open-source and actively seek meaningful causes to contribute to with my 
 
 <br/>
 
+<div align='left'>
+
+## ✍️ Blog posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
+</div>
+
+<br/>
+
 ## 🤝 Connect with Me
 <p align="left">
   <a href="https://linkedin.com/in/kendrawing" target="_blank"><img src="https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
@@ -97,12 +108,8 @@ I love open-source and actively seek meaningful causes to contribute to with my 
   <a href="https://codepen.com/kwing25" target="_blank"><img src="https://img.shields.io/badge/codepen-%23131417.svg?&style=for-the-badge&logo=codepen&logoColor=white" alt="CodePen" /></a>
 </p>
 
-<div align='left'>
-
-![](https://komarev.com/ghpvc/?username=kwing25&label=Profile+Views)
 
 
-</div>
 
 <!-- 
 [![Visits Badge](https://badges.pufler.dev/visits/kwing25/kwing25)](https://badges.pufler.dev)
