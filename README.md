@@ -86,8 +86,6 @@ I love open-source and actively seek meaningful causes to contribute to with my 
   </tr>
 </table>
 
-<br/>
-
 <div align='left'>
 
 ## ✍️ Blog posts
@@ -97,10 +95,7 @@ I love open-source and actively seek meaningful causes to contribute to with my 
 - [How to Start Contributing to Open Source](https://dev.to/kwing25/how-to-start-contributing-to-open-source-12e9)
 - [My Hacktoberfest2021 Journey](https://dev.to/kwing25/my-hacktoberfest2021-journey-4cc5)
 <!-- BLOG-POST-LIST:END -->
-
 </div>
-
-<br/>
 
 ## 🤝 Connect with Me
 <p align="left">
@@ -111,6 +106,12 @@ I love open-source and actively seek meaningful causes to contribute to with my 
 </a>  
   <a href="https://codepen.com/kwing25" target="_blank"><img src="https://img.shields.io/badge/codepen-%23131417.svg?&style=for-the-badge&logo=codepen&logoColor=white" alt="CodePen" /></a>
 </p>
+
+---
+
+#### 🤩 Some cool `README.md` badges...
+
+![Jokes Card](https://readme-jokes.vercel.app/api)
 
 
 
