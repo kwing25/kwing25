@@ -1,6 +1,10 @@
-<div align="left">
+<div align="center">
+<img src="https://github.com/kwing25/kwing25/blob/main/Assets/socialbanner.png?raw=true" align="center" style="width: 100%" />
+</div>  
+  
+</br>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&duration=5030&pause=1010&color=00AB59FA&random=false&width=435&lines=Ceasefire+Now;Support+techforpalestine.org)](https://git.io/typing-svg)
+<div align="left">
 
 [![Ceasefire now](https://img.shields.io/badge/%F0%9F%87%B5%F0%9F%87%B8_Ceasefire_Now-techforpalestine.org-000000?labelColor=gray&color=D83838)](https://techforpalestine.org/learn-more)
 
@@ -32,8 +36,7 @@ I love open-source and actively seek meaningful causes to contribute to with my 
 <a href="https://jquery.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/jquery.png" alt="jQuery" height="50" /></a>  
 <a href="https://redux.js.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/redux-original.svg" alt="Redux" height="50" /></a>  
 <a href="https://www.strapi.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/strapi.svg" alt="Strapi" height="50" /></a>  
-<a href="https://getbootstrap.com/docs/3.4/javascript/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" /></a>  
- 
+
 </div>
 
 <!-- Frontend technologies -->
@@ -76,7 +79,7 @@ I love open-source and actively seek meaningful causes to contribute to with my 
     </td>
     <td valign="top" width="50%">
       <a href="https://wakatime.com/@kwing25">
-        <img src="https://github-readme-stats.vercel.app/api/wakatime?username=kwing25&layout=compact" alt="Wakatime Stats" style="width: 100%"/>
+        <img src="https://wakatime.com/share/@kwing25/d68f7813-c9f0-48e3-8e6e-7da19eed6a75.svg" alt="Wakatime Stats" style="width: 550px"/>
       </a>
     </td>
   </tr>
@@ -88,5 +91,19 @@ I love open-source and actively seek meaningful causes to contribute to with my 
 <p align="left">
   <a href="https://linkedin.com/in/kendrawing" target="_blank"><img src="https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://dev.to/kwing25" target="_blank"><img src="https://img.shields.io/badge/dev.to-%2308090A.svg?&style=for-the-badge&logo=dev.to&logoColor=white" alt="Dev.to" /></a>
+ <a href="https://hashnode.com/@kendrawing" target="_blank">
+<img src=https://img.shields.io/badge/hashnode-%232962FF.svg?&style=for-the-badge&logo=hashnode&logoColor=white alt=hashnode style="margin-bottom: 5px;" />
+</a>  
   <a href="https://codepen.com/kwing25" target="_blank"><img src="https://img.shields.io/badge/codepen-%23131417.svg?&style=for-the-badge&logo=codepen&logoColor=white" alt="CodePen" /></a>
 </p>
+
+<div align='left'>
+
+![](https://komarev.com/ghpvc/?username=kwing25&label=Profile+Views)
+
+
+</div>
+
+<!-- 
+[![Visits Badge](https://badges.pufler.dev/visits/kwing25/kwing25)](https://badges.pufler.dev)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&duration=5030&pause=1010&color=00AB59FA&random=false&width=435&lines=Ceasefire+Now;Support+techforpalestine.org)](https://git.io/typing-svg)-->
