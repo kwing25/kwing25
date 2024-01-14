@@ -90,6 +90,7 @@ I love open-source and actively seek meaningful causes to contribute to with my 
 
 ## ✍️ Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Choosing Frontend Libraries/Frameworks: create-react-app or create-next-app?](https://dev.to/kwing25/choosing-frontend-librariesframeworks-create-react-app-or-create-next-app-2n0f)
 - [Helpful sites where I&#39;ve learned LLM Prompts in 2023](https://dev.to/kwing25/helpful-sites-where-ive-learned-llm-prompts-in-2023-1bde)
 - [How to write a good README for your project](https://dev.to/kwing25/how-to-write-a-good-readme-for-your-project-1l10)
 - [How to Start Contributing to Open Source](https://dev.to/kwing25/how-to-start-contributing-to-open-source-12e9)
